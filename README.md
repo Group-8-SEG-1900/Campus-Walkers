@@ -1,4 +1,5 @@
 Team Name: 
+Campus-Walkers
 
 Member Names:
 James Tremonti: 300486160
@@ -11,8 +12,8 @@ Chelsea Koenig: 300550596
 
 Mohamadou Diallo: 300523130
 
-
-Product Name: Campus Walkers
+Product Name: 
+Campus Walkers
 
 Description: 
 - Self walking shoes, fully programmable to walk you to your classes when you input your schedule.
