@@ -1,0 +1,9 @@
+How to pull:
+git pull
+
+how to push:
+git add .
+git commit -m "type your description here"
+git push
+
+in case the push fails, pull and then try to push again
