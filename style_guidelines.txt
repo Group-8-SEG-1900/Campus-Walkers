@@ -1,0 +1,19 @@
+STYLE GUIDELINES
+
+Overall look and feel of the website:
+A clean, sporty and energetic website, similar to a modern running-shoe brand.
+
+Color scheme
+The main background color will be white.
+The navigation bar and the footer will be a charcoal/dark-greyish black.
+Orange will be used as an accent color for buttons, links, etc.
+
+White #FFFFFF - background
+Charcoal #1E2328 - Navigation bar and footer
+Orange #FF5A1F - buttons, links
+Light grey #F4F6F8 - seperate sections, makes a little contrast with the white.
+
+Typography
+For the headings: Montserrat, extra-bold.
+Body: Open Sans
+Size of the font are to be determined.
